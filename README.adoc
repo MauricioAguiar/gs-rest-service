@@ -2,7 +2,7 @@ Projeto para a selação do concurso de Recife no dia 04/03/2023
 
 Projeto na fase atual de envio estão apenas com as funções Rest das classes Pessoas e Organização Fila
 
-Houve uma falha no recebimento e cadastro do site: https://portal.telesign.com/ onde não recebi o codigo verificador para a criação de Congratulations
+Houve uma falha no recebimento e cadastro do site: https://portal.telesign.com/ onde não recebi o codigo verificador para a criação da conta
 
 Aplicação está rodando no localhost na porta padrão 8080
 
